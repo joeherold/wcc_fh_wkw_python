@@ -116,9 +116,9 @@ except:
 
 Erstelle eine Funktion **getPrimeNumbers**, die 2 Parameter übernimmt **start** und **count**. Diese Funktion soll dir ab dem **start** Wert die Anzahl aufsteigender Prim-Zahlen ausgeben, die es gibt.
 
-- Beispiel: start = 0, count = 3
-- Ergebnis: 2,3,5
-- _Wichtig:_ Es müssen die Primzahlen berechnet werden, sodass ich z.B. als Start auch 1200 und Count 45 eingeben kann.
+- Beispiel: start = 0, count = 3 soll 2,3,5 ausgeben
+- Diese Fuktion soll ihre Parameter anhand von Eingabewerten erhalten, die ihr mit `input()` abfragt.
+- _Wichtig:_ Es müssen die Primzahlen berechnet werden, sodass ich z.B. als start auch 1200 und count 45 eingeben kann.
 
 ### Definition Primzahl:
 

@@ -1,9 +1,10 @@
 ---
 name: Ich habe eine Frage
 about: Hier kannst du Fragen zur Aufgabe stellen
-title: "FRAGE"
-labels: "question"
-assignees: "joeherold"
+title: FRAGE
+labels: question
+assignees: joeherold
+
 ---
 
 **Was ist deine Frage?**

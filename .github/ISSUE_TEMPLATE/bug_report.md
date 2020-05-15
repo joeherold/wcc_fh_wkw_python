@@ -1,38 +1,30 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: Ich habe eine Frage
+about: Hier kannst du Fragen zur Aufgabe stellen
+title: "FRAGE"
+labels: "question"
+assignees: "joeherold"
 ---
 
-**Describe the bug**
+**Was ist deine Frage?**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Welche Weekly Coding Challenge betrifft die Frage**
+_Bitte Nummer angeben_
+Challenge: ...
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Screenshots / Dateien**
+_Hier kannst du Dateien (Code, Screenshots, sonstiges) zur Frage hochladen_
+...
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Link zu deinem repl.it**
+_wenn du eine repl hast, kanns du hier die URL angeben_
+...
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Wie bist du generell mit der Challenge zurechtgekommen?**
+_Nach Schulnoten: 1 Super easy, 5 Oh mein Gott war das schwer_
+Note: ...
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Verbesserungsvorschläge / Anregungen / Kritik**
+_Soll ich etwas anders machen, schreib es hier_
+Text ...

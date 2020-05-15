@@ -11,7 +11,7 @@ Nachdem wir zusammen schon erfolgreich die erste Challenge geschafft haben hat s
 
 Macht euch mit den Grund-Datentypen und den Grund-Rechenoperationen vertraut, und spielt damit rum.
 Macht euch mit Lists vertraut und spielt damit etwas rum.
-Gewünschtes Ziel: \_Bitte versucht mit allen Daten-Typen und der Datenstruktur List alle Rechenoperationen und Vertleichs-Operatoren durchzuführen.
+**Gewünschtes Ziel: Bitte versucht mit allen Daten-Typen und der Datenstruktur List alle Rechenoperationen und Vertleichs-Operatoren durchzuführen.**
 Macht das immer in einem try-except Block, damit bei einer unmöglichen Konstellation das Programm nicht abbricht.
 
 ### Beispiel

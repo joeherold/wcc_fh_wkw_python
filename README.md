@@ -16,5 +16,8 @@ Es gibt 2 Möglichkeiten:
 _ad 1)_
 Zum MS Teams Kanal geht es [hier](https://teams.microsoft.com/l/channel/19%3aa6077bbb7c794716aef8ef6264849648%40thread.skype/Weekly%2520Coding%2520Challenge?groupId=fe5a1a58-19cb-498f-88e0-617b2206af7e&tenantId=b8192970-931b-4546-97ce-a6a611c24bd9)
 
+_ad 1)_
+Zum Formular geht es [hier](https://forms.office.com/Pages/ResponsePage.aspx?Host=Teams&lang=%7Blocale%7D&groupId=%7BgroupId%7D&tid=%7Btid%7D&teamsTheme=%7Btheme%7D&upn=%7Bupn%7D&id=cCkZuBuTRkWXzqamEcJL2Rcv0_AVGQVMpyxsXq73-hxUOUM1QVo0WTA3T1dOSEQ3NkxCN0Y1MjZBUC4u)
+
 _ad 2)_
-Zu den Issues geht es [hier](https://github.com/joeherold/weekly_coding_challenge_fwkwkw_python/issues)
+Zu den Issues geht es [hier](https://github.com/joeherold/wcc_fh_wkw_python/issues)

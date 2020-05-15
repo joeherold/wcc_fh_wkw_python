@@ -64,7 +64,9 @@ Diese Infos bitte ansehen, weil: Das Verständnis von Grund-Typen ist essentiell
 - [Strings](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/04_Day_Strings/04_string.md)
 - [Infos zu Lists](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/05_Day_Lists/05_list.md)
 
-### Datentypen
+### Datemstrukturen
+
+Ist eine "Zusammensetzung" aus den Grund-Datentypen
 
 ```python
 

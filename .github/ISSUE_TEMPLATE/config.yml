@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: MS Teams Kanal
+    url: https://teams.microsoft.com/l/channel/19%3aa6077bbb7c794716aef8ef6264849648%40thread.skype/Weekly%2520Coding%2520Challenge?groupId=fe5a1a58-19cb-498f-88e0-617b2206af7e&tenantId=b8192970-931b-4546-97ce-a6a611c24bd9
+    about: Unser gemeinseamer MS Teams Kanal
+  - name: Lieber MS Forms verwenden
+    url: https://forms.office.com/Pages/ResponsePage.aspx?Host=Teams&lang=%7Blocale%7D&groupId=%7BgroupId%7D&tid=%7Btid%7D&teamsTheme=%7Btheme%7D&upn=%7Bupn%7D&id=cCkZuBuTRkWXzqamEcJL2Rcv0_AVGQVMpyxsXq73-hxUOUM1QVo0WTA3T1dOSEQ3NkxCN0Y1MjZBUC4u
+    about: Du kannst auch das MS Forms Formular verwenden

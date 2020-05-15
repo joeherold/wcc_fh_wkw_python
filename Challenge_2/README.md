@@ -9,12 +9,13 @@ Nachdem wir zusammen schon erfolgreich die erste Challenge geschafft haben hat s
 
 ## Folgende Aufgabenstellung:
 
-Macht euch mit den Grund-Datentypen und den Grund-Rechenoperationen vertraut, und spielt damit rum.
+Macht euch mit den Grund-Datentypen und den Rechenoperationen bzw. Vergleichsoperatoren vertraut, und spielt damit rum.
 Macht euch mit Lists vertraut und spielt damit etwas rum.
 
 **Gewünschtes Ziel: Bitte versucht mit allen Daten-Typen und der Datenstruktur List alle Rechenoperationen und Vertleichs-Operatoren durchzuführen.**
 
 Macht das immer in einem try-except Block, damit bei einer unmöglichen Konstellation das Programm nicht abbricht.
+Überlegt auch, wie man durch einen kleinen Type-Cast (z.B.: `int("45")`) einen Fehler vermeiden kann.
 
 ### Beispiel
 
@@ -63,10 +64,15 @@ Boolean: True False
 String: "hallo" oder 'hallo'
 Integer: 1 2 3 4
 Float: 1.2  3.234234
-Datenstrukturen
+...
+```
+
+### Datentypen
+
+```python
 List
 Dictionary
-...
+... und weitere, die wir noch nicht betrachten
 ```
 
 ### Grundrechenarten
@@ -79,7 +85,7 @@ Dictionary
 % ... Modulo (Der Rest Operator)
 ```
 
-### GrundoOperatoren
+### Vergleichsoperatoren
 
 ```python
 < ... kleiner

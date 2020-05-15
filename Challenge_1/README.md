@@ -28,8 +28,7 @@ Gesucht:
 
 ```python
 # gewünschtes Ergebnis
-mySorte
-dNumberList = [14, 21, 25, 25, 32, 45, 54, 57, 78, 87]
+mySortedNumberList = [14, 21, 25, 25, 32, 45, 54, 57, 78, 87]
 ```
 
 **Bonus Aufgabe:** War das davor zu leicht? Dann löse folgendes:

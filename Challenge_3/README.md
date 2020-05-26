@@ -10,9 +10,12 @@ Bei dieser Aufgabe geht es darum, das Dateisystem zu nutzen.
 ## Folgende Aufgabenstellung:
 
 Das Ziel ist, dass wir einen ein kleines ToDo Programm erstellen, welches unsere Tasks in eine Datei schreibt.
-Erstellt hierzu einen Ornder und darin eine Python Datei namens _main.py_ und eine Datei namens _todo.txt_.
+Diese sollen als **List** geladen werden, die ihr mit den bekannten Operatoren bearbeiten könnt. Anschließend soll diese List wieder in die Datei geschrieben werden.
+Erstellt hierzu einen Ornder und darin eine Python Datei namens **main.py** und eine Datei namens **todo.txt**.
+
 Wenn euer Programm gestartet wird, sollen alle bestehenden ToDos (am Anfang gibt es natürlich noch keine) aufgelistet werden. Dazu soll immer eine aufsteigende Nummer vorangestellt sein, damit jeder Task somit identifizierbar ist.
-Das Programm soll dich dann fragen, ob du einen neuen Task anlegen willst, oder einen löschen willst. Neue Tasks werden hinten angefügt, eh klar :-)
+
+Das Programm soll dich dann fragen, ob du einen neuen Task anlegen willst, oder einen Task löschen willst. Neue Tasks werden hinten angefügt, eh klar :-)
 
 - Wenn du einen hinzufügen willst, dann mache bitte einen Input mit dem gewünschten Text. Danach werden die bestehenden Tasks wieder in aufsteigender Reihenfolge angezeigt.
 - Wenn du einen Task löschen willst, dann gib die Nummer an, die geöscht werden soll. Danach werden die bestehenden Tasks wieder in aufsteigender Reihenfolge angezeigt.
@@ -61,7 +64,7 @@ writeListToFile(pathToFile, lines)
 
 ### Bitte lesen
 
-Diese Infos bitte ansehen, weil: Das Verständnis von Grund-Typen ist essentiell. Bitte aufmerksam durchlesen **bevor** ihr die Übung macht.
+Diese Infos bitte ansehen, weil: Bitte aufmerksam durchlesen **bevor** ihr die Übung macht.
 
 - [Umgang mit Dateien in Python (lesen, schreiben, ...)](https://www.guru99.com/reading-and-writing-files-in-python.html)
 - [map](https://www.geeksforgeeks.org/python-map-function/)

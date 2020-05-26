@@ -141,4 +141,4 @@ def getPrimeNumbers(start, count):
 
 ## Lösung
 
-(challenge_1.py)[https://github.com/joeherold/wcc_fh_wkw_python/blob/master/Challenge_2/challenge_2.py]
+[challenge_2.py](https://github.com/joeherold/wcc_fh_wkw_python/blob/master/Challenge_2/challenge_2.py)

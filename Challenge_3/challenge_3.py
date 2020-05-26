@@ -1,3 +1,7 @@
+'''
+CHALLENGE #3
+TODO MANAGER - READ WRITE FILES
+'''
 def removeTrailingNewLine(value):
     return value.rstrip("\n")
 def addTrailingNewLine(value):

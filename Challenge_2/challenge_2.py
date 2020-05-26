@@ -1,3 +1,7 @@
+'''
+CHALLENGE #2
+GET PRIME NUMBERS
+'''
 # the function generate the prime numberes output
 # it has two parameters: start and count
 def getPrimeNumbers(start, count):

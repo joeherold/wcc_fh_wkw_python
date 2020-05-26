@@ -24,6 +24,15 @@ Beachte bitte, dass stets, nach dem Hinzufügen oder Löschen eines Tasks, die T
 
 ### Beispiel zum Lesen und Schreiben von einer Text-Datei
 
+tasks.txt
+
+```txt
+Das ist mein erster Task
+Das ist mein 2. Task
+```
+
+#### Hier ein sample Code:
+
 ```python
 # das "Neue Zeile" Zeichen am Ende des Strings entfernen
 def removeTrailingNewLine(value):

@@ -64,10 +64,10 @@ writeListToFile(pathToFile, linesAsList)
 
 ### Bitte lesen
 
-Diese Infos bitte ansehen, weil: Bitte aufmerksam durchlesen **bevor** ihr die Übung macht.
+Bitte aufmerksam durchlesen **bevor** ihr die Übung macht.
 
 - [Umgang mit Dateien in Python (lesen, schreiben, ...)](https://www.guru99.com/reading-and-writing-files-in-python.html)
-- [map](https://www.geeksforgeeks.org/python-map-function/)
+- [map die etwas andere art als for oder while loops](https://www.geeksforgeeks.org/python-map-function/)
 - [remove trailng newline in python](https://kite.com/python/answers/how-to-remove-a-trailing-newline-in-python)
 
 ## Bonus-Aufgabe:

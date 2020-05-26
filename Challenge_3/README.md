@@ -53,13 +53,13 @@ def writeListToFile(pathToFile, dataAsList=[]):
 pathToFile = "absoluter/oder/relativer/pfad/zu/deiner/datei/tasks.txt"
 
 # List von Datei laden
-lines = readFileAndGetAsList(pathToFile)
+linesAsList = readFileAndGetAsList(pathToFile)
 
 # Wert hinzufügen
-lines.append("holladrio")
+linesAsList.append("holladrio")
 
 # Liste neu speichern
-writeListToFile(pathToFile, lines)
+writeListToFile(pathToFile, linesAsList)
 ```
 
 ### Bitte lesen

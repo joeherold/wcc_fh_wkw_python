@@ -41,3 +41,7 @@ myFancySortedNumberList = [14, 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 25, 25, 0, 0, 0, 0
 ```
 
 **VIEL ERFOLG! Gemeinsame Auflösung nächstes Wochenende**
+
+## Lösung
+
+(challenge_1.py)[https://github.com/joeherold/wcc_fh_wkw_python/blob/master/Challenge_1/challenge_1.py]

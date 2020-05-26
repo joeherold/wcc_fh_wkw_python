@@ -138,3 +138,7 @@ def getPrimeNumbers(start, count):
 - Fragen [als Issue](https://github.com/joeherold/wcc_fh_wkw_python/issues) oder als [Formular](https://forms.office.com/Pages/ResponsePage.aspx?Host=Teams&lang=%7Blocale%7D&groupId=%7BgroupId%7D&tid=%7Btid%7D&teamsTheme=%7Btheme%7D&upn=%7Bupn%7D&id=cCkZuBuTRkWXzqamEcJL2Rcv0_AVGQVMpyxsXq73-hxUOUM1QVo0WTA3T1dOSEQ3NkxCN0Y1MjZBUC4u) erstellen.
 
 **VIEL ERFOLG! Gemeinsame Auflösung nächstes Wochenende**
+
+## Lösung
+
+(challenge_1.py)[https://github.com/joeherold/wcc_fh_wkw_python/blob/master/Challenge_2/challenge_2.py]

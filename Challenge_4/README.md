@@ -90,7 +90,7 @@ vektor1: (1/1) zeigt nach rechts oben, verdrehen wir zb. y, so wird daraus (1/-1
 Bitte aufmerksam ansehen **bevor** ihr die Übung macht.
 
 - [Wiederholung Vektoren, falls du es vergessen hast](https://www.youtube.com/watch?v=dzxmbcL4fE8)
-- [Umnfang und Fläche ermitteln](https://www.youtube.com/watch?v=M-Cx36dVWw0)
+- [Umfang und Fläche ermitteln](https://www.youtube.com/watch?v=M-Cx36dVWw0)
 - [Schwerpunkt grafisch ermitteln](https://www.youtube.com/watch?v=g4KdVurVrvo)
 
 ## Bonus-Aufgabe:

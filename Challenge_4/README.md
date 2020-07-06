@@ -108,3 +108,8 @@ Wenn du mit dem vorhergehenden überfordert bist, dann ändere deinen Code so ab
 - Fragen [als Issue](https://github.com/joeherold/wcc_fh_wkw_python/issues) oder als [Formular](https://forms.office.com/Pages/ResponsePage.aspx?Host=Teams&lang=%7Blocale%7D&groupId=%7BgroupId%7D&tid=%7Btid%7D&teamsTheme=%7Btheme%7D&upn=%7Bupn%7D&id=cCkZuBuTRkWXzqamEcJL2Rcv0_AVGQVMpyxsXq73-hxUOUM1QVo0WTA3T1dOSEQ3NkxCN0Y1MjZBUC4u) erstellen.
 
 **VIEL ERFOLG! Gemeinsame Auflösung nächstes Wochenende**
+
+# Nachtrag:
+
+Hier eine Seite, wo du deine Berechnungen überprüfen kannst
+[Dreieck Rechner](https://www.triangle-calculator.com/de/?what=vc&a=5&a1=1&3dd=3D&a2=0&b=1&b1=1&b2=0&c=3&c1=4&c2=0&submit=Berechnen&3d=0)

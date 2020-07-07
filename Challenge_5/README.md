@@ -38,6 +38,8 @@ with urllib.request.urlopen('https://jsonplaceholder.typicode.com/users/1/posts'
 
 Danach ersetllen bitte eine response.csv, die so wie in Challenge 3, neben deiner Python Datei abgelegt wird. Prüfe bitte mit Excel, ob dein erstelltes CSV File lesbar und verarbeitbar ist oder teste die Datei online mit dem CSV Validator: [https://csvlint.io/](https://csvlint.io/)
 
+Wie eine CSV Datei aufgebaut ist, seht hier hier [CSV Datei](https://www.howtogeek.com/348960/what-is-a-csv-file-and-how-do-i-open-it/). Im wesentlichen ist es nicht anders als eine Text-Datei, nur mit der .csv Endung.
+
 ## Bonus-Aufgabe:
 
 Als Bonus versuche eine gültige XML Datei zusätzlich zur CSV Datei zu erstellen.
